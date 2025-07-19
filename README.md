@@ -1,17 +1,54 @@
-#About WikiTok
-WikiTok is a revolutionary platform that transforms the way you consume knowledge. Inspired by the dynamic and engaging format of short-form video platforms, WikiTok delivers bite-sized, visually rich articles from Wikipedia, making learning accessible, enjoyable, and highly efficient.
+# Welcome to your GPT Engineer project
 
-Our Uniqueness
-Bite-Sized Learning: Get key information quickly without overwhelming long reads.
-Visual Engagement: Articles are presented with compelling visuals to enhance understanding and retention.
-Dynamic Discovery: Explore new topics effortlessly through an intuitive, continuous feed.
-Interactive Experience: Engage with content in a fresh, modern way.
-Key Features
-Seamless Article Feed: Swipe through articles like short videos, keeping you engaged.
-Intelligent Search: Quickly find articles on any topic with smart suggestions.
-Curated Content: Discover trending and relevant information tailored to your interests.
-Responsive Design: Enjoy a consistent experience across all your devices.
-At WikiTok, we believe that knowledge should be exciting and easy to access. Join us in redefining the future of learning!
+## Project info
+
+**URL**: https://run.gptengineer.app/projects/201b8585-1009-4e6a-8111-16078ed87215/improve
+
+## How can I edit this code?
+
+There are several ways of editing your application.
+
+**Use GPT Engineer**
+
+Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/201b8585-1009-4e6a-8111-16078ed87215/improve) and start prompting.
+
+Changes made via gptengineer.app will be committed automatically to this repo.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the GPT Engineer UI.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -22,3 +59,13 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## How can I deploy this project?
+
+All GPT Engineer projects can be deployed directly via the GPT Engineer app.
+
+Simply visit your project at [GPT Engineer](https://gptengineer.app/projects/201b8585-1009-4e6a-8111-16078ed87215/improve) and click on Share -> Publish.
+
+## I want to use a custom domain - is that possible?
+
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.gptengineer.app/tips-tricks/custom-domain/)
